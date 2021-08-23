@@ -10,5 +10,6 @@ class MainActivity : AppCompatActivity() {
         aaa
         13432323
         1
+        12
     }
 }
